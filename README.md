@@ -1,2 +1,2 @@
 # ScribbleAnnotationQT
-ScribbleAnnotationQT
+QT实现的Scribble标注工具
